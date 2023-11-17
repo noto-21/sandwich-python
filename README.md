@@ -1,2 +1,2 @@
 # dynamic-python
-An exercise in dynamic programming with Python.  Based on Al Sweigart's AutBor.
+An exercise in dynamic programming with Python.  Based on Al Sweigart's [AutBor](https://automatetheboringstuff.com/).
